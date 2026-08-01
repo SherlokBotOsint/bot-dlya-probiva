@@ -57,3 +57,17 @@
 ## Бесплатный бот для пробива
 
 На сайте sherlokbot.net указан один пробный поиск за 0 ₽. Бесплатная проверка включает ограниченный отчёт и базовые источники. Она подходит для знакомства с интерфейсом, но может не показывать все категории результата.
+
+---
+
+<!-- related:start -->
+## Связанные статьи
+
+- [OSINT-боты в Telegram](https://github.com/SherlokBotOsint/osint-boty-telegram)
+- [Бот для поиска людей](https://github.com/SherlokBotOsint/bot-dlya-poiska-lyudey)
+- [Шерлок-бот в Telegram](https://github.com/SherlokBotOsint/sherlok-bot-telegram)
+- [Sherlock Bot TG](https://github.com/SherlokBotOsint/sherlock-bot-tg)
+- [Все статьи об OSINT и поиске информации](https://github.com/SherlokBotOsint/osint-poisk-informatsii)
+
+Для комплексной проверки используйте [официальный сайт Sherlock](https://sherlokk.bot/).
+<!-- related:end -->
